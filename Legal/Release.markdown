@@ -1,97 +1,114 @@
-Release of Liability
-====================
+Release of Liability, Waiver of Legal Rights and Assumption of Risk
+===================================================================
 
 In consideration for my being permitted to participate in the activities
-of So Make It Ltd., I agree to the following waiver and release:
+of So Make It Ltd., I agree to the following release of liability,
+waiver of legal rights, and assumption of risk:
 
 ASSUMPTION OF RISK
 ------------------
 
-I acknowledge that inherent risks, dangers and
-hazards and such exist when using power tools commonly used in
-electronics construction, fabrication, software design and other
-technology related activities. Participation in such activities and/or
-the use of equipment associated with technology design, manufacture and
-experimentation may result in injury, illness, death or damage to
-personal property. These risks and dangers may be caused by other
-participants, members or by accidents, acts of nature or other causes.
-Risks and dangers may arise from foreseeable or unforeseeable causes
-including, but not limited to electrocution, burns, impalement, injury
-from slips or falls, etc.
+I acknowledge that inherent risks, dangers, hazards and such exist when
+using tools (including power tools), chemicals and equipment commonly
+used in electronics construction, fabrication, software design,
+woodwork, metalwork and other related activities. Participation in such
+activities and/or the use of equipment associated with design,
+prototyping, manufacture and experimentation may result in mishap,
+injury, disability, illness, death or damage to personal property. These
+risks and dangers may be caused by myself, other participants, members
+or by accidents, acts of nature or other causes.  Risks and dangers may
+arise from foreseeable or unforeseeable causes including, but not
+limited to electrocution, burns, impalement, injury from slips or falls,
+handling of toxic substances, inhalation of fumes, etc.
 
 RELEASE OF LIABILITY
 --------------------
 
-The member fully assumes all risks associated with
-participation in events and exempts and releases So Make It Ltd., its members,
-officers, agents, board members, from action whatsoever arising out of
+I hereby assume all risks associated with participation in events and
+exempt, release and discharge So Make It Ltd., its members, officers,
+directors, agents, employees, instructors, board members, and owners of
+equipment and the land used for So Make It Ltd. activities (hereinafter
+collectively referred to as "Released Parties") from any and all
+liability, claims demands or causes of action whatsoever arising out of
 any damage, loss or injury to the participant or the participant's
-property while upon the premises or using any equipment of the
-organization or while participating in any of the activities
-contemplated by this agreement whether such loss, damage, or injury
-results from the negligence of the corporation, its members, agents, or
-from some other cause.
+property while upon the premises, at a So Make It Ltd. event, or using
+any equipment of the organization or while participating in any of the
+activities contemplated by this agreement whether such loss, damage, or
+injury results from the negligence of the released parties, or from some
+other cause.
+
+I EXPRESS AND VOLUNTARILY ASSUME ALL RISK OF DEATH OR PERSONAL INJURY
+SUSTAINED WHILE PARTICIPATING IN SO MAKE IT LTD. ACTIVITIES WHETHER OR
+NOT CAUSED BY THE NEGLIGENCE OF THE RELEASED PARTIES.
 
 COVENANT NOT TO SUE
 -------------------
 
-The participant agrees never to institute any suit
-or action at law otherwise against So Make It Ltd., its members, officers, board
-members, agents, nor to initiate or any way assist the prosecution of
-any claim for damages or course of action which the member, member's
-heirs, executors or administrators hereafter may have by reason of
-injury to the person of the member or to the participant's property
+I agree that I WILL NOT SUE, INSTITUTE ANY SUIT OR ACTION AT LAW
+OR MAKE A CLAIM against the Released Parties for damages or other losses
+sustained as a result of my participation in So Make It Ltd. activities.
+
+I further agree not to initiate or in any way assist the prosecution of
+any claim for damages or course of action which the participant,
+participant's heirs, executors or administrators hereafter may have by
+reason of injury to the participant or to the participant's property
 arising from the activities contemplated by this agreement.
 
 THIRD PARTY INDEMNIFICATION
 ---------------------------
 
-The member will indemnify, save and hold
-harmless So Make It Ltd., its members, officers, board members, or agents from any
-and all losses, claims, actions, or proceedings of every kind and
-character which may be presented or initiated by any other persons or
-organizations and which arise directly or indirectly from the actions of
-the member while engaged in the activities contemplated by this
-agreement.
+I will take full responsibility for, and hold harmless, the Released
+Parties for any injury that I may suffer and/or inflict upon others
+and/or their property as a result of my engagement in So Make It Ltd.
+activities.
 
-PARTICIPANT
------------
+I also agree to INDEMNIFY, SAVE AND HOLD HARMLESS the Released Parties
+from all losses, claims, actions, judgements, costs, or proceedings of
+every kind and character, including attorneys fees, incurred in
+connection with any action brought as a result (directly or indirectly)
+of my participation in So Make It Ltd. activities.
+
+DURATION OF AGREEMENT
+---------------------
+
+I represent that this release of liability, waiver of legal rights and
+assumption of risk shall continue in full force and effect for so long
+as I engage in So Make It Ltd. activities which are in any way
+connected to or with the Released Parties.
+
+PARTICIPATION
+-------------
+
+I agree that I will operate equipment and tools in a reasonable and safe
+manner so as not to endanger the lives of persons and/or property of any
+individual. I further agree to utilise appropriate safety equipment
+(such as face masks, eye protection, etc.) when using equipment and/or
+tools, and will encourage others to do so also. If the safety
+equipment I deem necessary is not available then I agree to not use the
+equipment or tool that requires said safety equipment until said safety
+equipment becomes available.
+
+I represent I am at least 18 years of age or that as a parent or legal
+guardian I waive and release any and all legal rights that may accrue
+to me or to my son, daughter or child in my care (hereinafter
+collectively referred to as "Minor Child"), as the result of any injury
+that my Minor Child may suffer and/or inflict while engaging in So Make
+It Ltd. activities.
 
 **I hereby acknowledge that I have CAREFULLY read all of the provisions
 above, fully understand the terms and conditions expressed there, and do
-freely choose acceptance of the provisions of the foregoing paragraphs
-relating to assumption of risk, release of liability, covenant not to
-sue, and third party indemnification.**
-
-
-Signed:
-
-Name:
-
-Address:
+of my own free will choose acceptance of the provisions of the foregoing
+paragraphs relating to assumption of risk, release of liability,
+covenant not to sue, and third party indemnification.**
 
 Date:
 
-WITNESSES
----------
+Participant signature:
 
+Participant name:
 
+Parent/guardian signature (if participant under 18 years of age):
 
-Signed:
+Parent/guardian name (if participant under 18 years of age):
 
-Name:
-
-Address:
-
-Date:
-
----
-
-
-Signed:
-
-Name:
-
-Address:
-
-Date:
+Address of participant:
