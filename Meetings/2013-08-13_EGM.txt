@@ -1,0 +1,249 @@
+SoMakeIt Extraordinary General Meeting 2013/08/13 20:00
+In attendance:
+ Benjie Gillam (trustee)
+ James Bruntun (trustee)
+ Anton Piatek (trustee)
+ Bracken Dawson (trustee)
+ Christopher Smith (trustee)
+ Michael Daffin
+ Simon Davey
+ Mark Hindess
+ Andy Bennett
+ Antony Furneaux
+ Charles Webb
+ John Eayrs
+ Andrew Howe
+ Edward Brereton
+ Tyler Ward
+ Jemma Gillam
+ Dave Rowntree
+ James Sutton
+
+Apologies:
+ Andy Gleeson
+ Adam Hunston
+
+Benje as chair.
+
+NOTE! xxx is something to fill in later !!
+
+* Money status
+ - See report from chairman - xxx
+ - We will need more money to cover our rent, bills and other expeniture after October.
+ - Regarding snacks and drinks, majority of members were "happy" with the arrangements. 
+   - Suggestions inlcude:
+   - Expanded range of drinks.
+   - Some nibbles might.
+ - Eletricity is a large expense currently, and is not expected to go down. We are currently paying the whole bill as we are not paying rent.
+   - When we have longer opening hours we will likely use more electricity.
+ - Shrimping It workshop current has a large outlay of stock, so selling them and running the workshops will bring the cash flowing back.
+ - We have ~29 regularly paying members paying an average of £18 per month.
+   - To move to our planned larger space [see later] we would need £25 per month each.
+   - Alternatively, increasing membership up to 40 members at the current £18/month would meet the minimum outgoings.
+ - We are investigating grants and sponsorships. If you know of any leads or contacts, please let us know.
+
+* Workshops
+ - Ran SMD workshop, NodeJS workshop, NodeCopter.
+ - To run: Shrimping it, Git.
+ - Obtained sponsorship of £300 for QuadCopter, £500 for Shrimping It.
+ - If you want to run one, email the list or talk to Jem - don't need to be an expert, just need to make something happen.
+ - If you want to suggest a topic, please put it on the wiki.
+
+* Attracting new members
+ - We still need to attract new members as we need more cash. We have plans to have more space, and that means more money. Our own door would be good too (these aren't free either!)
+ - Suggestion of talking to more people, but people are often apathetic.
+ - Workshops seem to attract new people, however we need to make sure we sell SoMakeIt to make the conversions.
+ - Repeated workshops have a lot of value, many are booked out.
+ - Social media [more later].
+ - Need to promote workshops better too - how?
+ - If you know of a techy group that meets up (at the pub or anywhere), encourage them to hold a meeting or regular meetings here!
+   - We are always willing to open on another night especially for their meetup.
+ [answers on a postcard please (or just email us)]
+
+* Specific member roles
+ - We have 5 trustees and a few dedicated members, but need more people to volunteer to take on a role. You do not need to be the person always doing it, but would be responsible for making sure that it happens somehow.
+
+** Video/YouTube, filming, editing, planning
+ - Youtube advertising does bring in some income for us, so more videos would not only increase our visibility but also bring in some income.
+ - We could benefit from a workshop on both filming and editing videos.
+
+** Photos & Blogging
+
+** Social Media maintenance
+ - We should be pushing social media, facebook/twitter/youtube/other, to keep our name out there. Advertising is about being heard of or seen.
+ - Please retweet / repost / +1 to help increase our visibility.
+
+** Monthly meet-up coordination
+ - Currently done by Bracken, but available for someone else to do.
+
+** Component inventory management / space management
+ - Often we don't know if we have a tool or item, let alone where it would be.
+ - Do we want to wait until we move in October, or does it make sense to do the organisation now
+   - Organising now will clear stuff before we move, and increase our image to attract new members.
+   - More personal storage would help too, organising more efficiently could allow this.
+
+** Tool/equipment coordination & maintenance etc
+ - Could have a list on the whiteboard. Already have a todo list on the wiki.
+
+
+
+* Location
+** What should we do after october?
+ - Rideride's contract runs out late October (~20th?).
+   - They have looked around, but have come back to the idea of staying on in the current location, but with some subdivisions so that each group is only paying for what they use (with their own contracts).
+   - This plan would mean a shared front door, but internal walls and doors to secure each area separately.
+ - Considering swapping with the joiners/carpenters at the current warehouse, gaining 900+ sqft. 
+   - The joiners are keen to move for a higher ceiling, we could benefit over winter by gaining a ceiling.
+   - This plan would cost us more, but we would gain a lot more space, and possibly subdivision of rooms immediately (though this may be a later project depending on details with the joiners)
+   - Unanimous vote to pursue this plan
+ - Other options are to stay at 500 sqft where we are, possibly swapping with rideride
+   - This is cheaper, but we are already limited in our current space (and it is very cold over winter).
+ - Nobody from the floor offered any other alternatives. We are looking at a price <£4/sqft for 500-1000 sqft.
+ - John Eayrs offered to make some enquiries in some properties he thinks might be empty and open to some form of offers.
+ - Andy Bennett offered to look into a space at fairways house.
+** Should we look at offering co-working?
+  [see conversation under Other Funding Ideas]
+
+* Crowd funding - Benjie
+** A kickstarter/indiegogo/etc campaign to fund a private space for our now established makerspace.
+
+* Events
+** Social event (trips to pubs/days out etc)
+ - We need more group outings and social events.
+ - Also another chance to promote ourselves (maker fayres, etc)
+
+* SoMakeIt T-shirts
+ - Several people want one.
+ - Please submit a design, we would love to do one.
+   - Andy Bennett offered to organise some designs.
+ - Also need some research on prices for printing/stock.
+ - Advertising on a T-Shirt could raise money, but it might make people less-likely to want to wear them.
+
+* Other funding ideas
+ - More members and more subscriptions always helps (especially in the long erm)
+ - eBay shop
+   - Our Shrimping It kits were suggested for ebay sales, due to the difference of bulk-purchasing.
+   - Could also sell donated, surplus stock/donations.
+   - If you are interested in doing this, get in touch.
+   - Not sure about the cost-effectiveness of an eBay shop.
+ - On-demand 3d printing.
+   - Could we make money printing models?
+   - Is the design actually the harder bit? Perhaps selling designer time is a better direction?
+ - Suggestion to talk to the sustainable energy group (SusDowns?) [Contact via John Eayrs]
+   - Also talk to PUSH (Partnership for Urban South Hampshire) ?
+ - Coworking
+  - There are several places already, but Benjie thinks we would have enough demand to consider it. It could make us some money if it works well.
+    - Proposal of charging £150 per month (cheapest known local is £170).
+  - Would this be a separate locked space? 
+  - How many people would be needed to make it work (social minimum).
+  - If we have 24/7 access, why pay for coworking space?
+   - Secure room, permanent desk, office facilities, potentially a "device lab" if enough people want it.
+ - Crowdfunding
+   - Asked floor, nobody really thought it would achieve much for us at the moment.
+   - More suitable for purchasing high-profile tools, i.e. laser cutters, etc
+ - Sponsorship
+   - Suggested to be the most likely way to raise considerable funds.
+   - Need a minimum of £300 per month extra to meet our desired space.
+   - Can we get some local companies to sponsor us?
+   - A sponsor wall? (1$ per pixel? £1 per cm^2 ?)
+     - Asking £500 from a local SMB to sponsor us, providing advertising on our site and maybe the wall.
+   - There is a list of grants available somewhere, we should try and find any that might be applicable. 
+     - We should organise to apply to as many as look likely to give us something.
+   - Writing hundreds of letters to local companies asking for sponsorship could turnaround several good responses.
+     - Some agreement here.
+     - Already have gained some sponsorship this way.
+   - T-Shirts also fit in to sponsorship.
+     - Companies may advertise on a set of shirts.
+   - OggCamp has a good set of sponsors, [Anton] to contact them and ask how.
+
+* Newspapers/Press
+ - Perhaps time to promote ourselves in the media
+   - Didnt want to use up press coverage too early.
+   - Move in October might be a good time to get them involved.
+
+* General Meetings
+** How frequent should they be?
+  - When we have specific roles, we they could have their own meetings.
+  - Focus groups could help solve specific needs.
+  - Occasional meetings were deemed to be valuable, and a good way of communicating
+    - 0 votes for once every month.
+    - 15 votes for once every 3 months.
+    - 1 vote for once every 6 months.
+    - 0 votes for only an annual meeting
+  - What about streaming/irc
+    - Someone could write in real time to IRC. Could be difficult to achieve, but could be tried.
+    - We could stream it, but audio would be difficult and make things much slower.
+    - Comments and questions could be asked by proxy, as can votes.
+
+* Mailing lists
+** Southackton list
+  - Suggested that we should not be using this for general space communications, as the electronics discussion could be offputting/dominating.
+  - Brand identity suggests we should have a SoMakeIt list.
+  - We have a newsletter (well one edition), with a plan to publish fortnightly.
+    - Do we need more than this? Some suggetions yes, some no.
+  - A forum? Google Groups is both a forum and a mailing list...
+    - Some noise was made that email was a preferred method of communication.
+  - 12 votes for having a "SoMakeIt Discussion" list, primarily for discussing workshops, organisation.
+  - 14 votes for essentially rebranding the current Southackton list to SoMakeIt.
+  - 15 votes for having a structured newsletter promoting workshops and news.
+  - 1  vote for a monthly newsletter
+  - 12 votes for (up to) fortnightly newsletter
+** Trustees list should be used less often
+  - Often used for organisational purposes. This is not in keeping with a members-run organisation, as a lot of things are happening on a private list.
+  - Discussion on what level we need to have discussions - Should most things be limited to trustees? open to other members? open to the public index?
+  - The trustees are really only legal points of contact - Any trustees list should probably be only for serious financial or confidential matters
+  - General organisational discussion should happen on a list available (at a minimum) to all members.
+  - Suggestion of a new list which covers day-to-day organisation. Members only.
+    - 15 votes for this idea
+    - Suggested names of "-organisation" or "-devel" ?
+  - Some other tools are used, i.e. wiki/trello
+    - Contact Benjie for access. [Benjie to document this in the wiki]
+*** Perhaps a new mailing list for general "running the space" list is required?
+  [Covered above]
+*** Goal is to keep more members involved
+** Do we need a newsletter mailing list to post events, new blog posts and news? [weekly?]
+  [Covered above]
+** Is it time to rename/move the southackton list?
+  [Covered above]
+
+* Rules
+** Rules regarding access to the makerspace for under 18s.
+ - Suggested that under 18's may be allowed only when accompanied by their parent or guardian.
+  - Said parent or guardian would take responsibility for the child.
+ - New ammendment to our rules to be drafted [Dave Rowntree] for inclusion.
+
+* Membersip
+ - Currently members agree to pay a membership fee. (Minimum £5 per month).
+ - We currently have only 29 out of 40 members recorded as paying. 
+ - While it can be described as "unfair" that they are not paying, the do also bring benefit in terms of help and assistance to other members.
+ - It is hard to separate out members who cannot afford to pay, from those who simply haven't managed to set up a recurring payment.
+ - Do we need to do anything about those that don't pay? Or is this acceptable?
+ - Tracking attendance could be valuable to know how many people we get on various nights.
+   - We have some code to track wifi MAC addresses to show who is in.
+   - We have an RFID reader which can read many cards (oyster/visa/etc).
+   - Attendance data may need to be private or anonymised
+   - (Could tie into vending)
+ - Does it need to be more clear that anyone is welcome here (first time is free, then we kindly request a donation for your visit)
+ - Are there people who might pay regularly but do not want to be full members?
+ - Are we big enough (and have enough access) to make up a need for Associate Membership?
+ - 0 votes for needing Associate membership in the short-term.
+ - 4 votes for needing a clearer definition/process for people who want to come down for free. Nobody volunteered to organise this.
+   - Need to make clear that the "visit" page on the main site, where non-member entry is described, should be in the wiki and mailing list [??]
+ - Do we need Associate Membership to track training for using some tools?
+  - Is it required? Do we need to track where someone was trained or by who?
+  - Perhaps we should check how other hackerspaces treat this issue - Many seem to simply avoid the subject.
+
+* Shrimping It pricing
+ - Voted that basic kits would be sold for £6 each, full kits (including breadboard and usb adapter) for £12
+
+* Workshop pricing
+ - Voted that the person running the workshop decides the price of their workshop
+   - Voted recommended price of £5 donation to SoMakeit from workshop (i.e. above the cost of materials)
+   - A discount (50%) may apply for SoMakeIt members.
+   - Workshops may also be completely free (though donations are encouraged).
+
+Meeting adjourned 22:45
+
+Acitons:
+ - New addition to rule - no use of dangerous or high risk tools when working alone.
+ - organising a group first-aid training session would be very valuable [Anton to chase].
