@@ -1,0 +1,1749 @@
+#LyX 2.0 created this file. For more info see http://www.lyx.org/
+\lyxformat 413
+\begin_document
+\begin_header
+\textclass article
+\begin_preamble
+\date{Tuesday 15th April 2014}
+
+\usepackage[T1]{fontenc}
+\usepackage{pslatex}
+\end_preamble
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize a4paper
+\use_geometry true
+\use_amsmath 1
+\use_esint 1
+\use_mhchem 1
+\use_mathdots 1
+\cite_engine basic
+\use_bibtopic false
+\use_indices false
+\paperorientation landscape
+\suppress_date false
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 1.5cm
+\topmargin 1.5cm
+\rightmargin 1.5cm
+\bottommargin 1.5cm
+\columnsep 1cm
+\secnumdepth 3
+\tocdepth 2
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 2
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+Draft Agenda v2
+\begin_inset Newline newline
+\end_inset
+
+So Make It AGM
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset toc
+LatexCommand tableofcontents
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing single
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+
+\backslash
+newpage
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section
+Reaffirm current trustees
+\end_layout
+
+\begin_layout Itemize
+James Brunton
+\end_layout
+
+\begin_layout Itemize
+Bracken Dawson
+\end_layout
+
+\begin_layout Itemize
+Benjie Gillam
+\end_layout
+
+\begin_layout Itemize
+Anton Piatek
+\end_layout
+
+\begin_layout Itemize
+Chris Smith
+\end_layout
+
+\begin_layout Section
+Approve new trustees
+\end_layout
+
+\begin_layout Standard
+Jem Gillam - Proposed by Anton Piatek, seconded by Chris Smith
+\end_layout
+
+\begin_layout Section
+Approve annual accounts
+\end_layout
+
+\begin_layout Standard
+Chris to present - #TODO try and get something to inline
+\end_layout
+
+\begin_layout Section
+Membership proposals
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+From 
+\begin_inset CommandInset href
+LatexCommand href
+name "http://goo.gl/Qr53P9"
+target "http://goo.gl/Qr53P9"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset CommandInset label
+LatexCommand label
+name "sub:Benjie's-proposal"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+TL;DR
+\end_layout
+
+\begin_layout Standard
+Existing system sucks, excluding potential members, including people who
+ never attend nor pay on our Register of Members.
+\end_layout
+
+\begin_layout Standard
+Instead we should tier the membership process:
+\end_layout
+
+\begin_layout Enumerate
+Register your interest, become an "associate member" (term under discussion)
+ 
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Access to the wiki, members area, etc.
+ 
+\end_layout
+
+\begin_layout Itemize
+Easier management of newsletter subscriptions/etc 
+\end_layout
+
+\begin_layout Itemize
+Pay as you go or subscription payment options 
+\end_layout
+
+\begin_layout Itemize
+Particularly suitable for people who only use the space a few times a year.
+ 
+\end_layout
+
+\begin_layout Itemize
+Possibly suitable for minors? 
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Set up regular payments, become a "supporter" 
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Intended for people who use the space once or more per month 
+\end_layout
+
+\begin_layout Itemize
+Stepping stone to full membership 
+\end_layout
+
+\begin_layout Itemize
+Get an Access Card
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+See §
+\begin_inset CommandInset ref
+LatexCommand vref
+reference "sec:Keyholder-proposal"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Choose to become a full member (same as supporter, except you become a member
+ of So Make It Ltd.) 
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Regular members 
+\end_layout
+
+\begin_layout Itemize
+Appear on our Register of Members (so your address is required) 
+\end_layout
+
+\begin_layout Itemize
+Voting rights 
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Become a keyholder 
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+See §
+\begin_inset CommandInset ref
+LatexCommand vref
+reference "sec:Keyholder-proposal"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+What's wrong with the current process?
+\end_layout
+
+\begin_layout Subsubsection
+Non-paying/inactive members
+\end_layout
+
+\begin_layout Standard
+Many of our members (people who are on So Make It Ltd's official Register
+ of Members) have never paid.
+ Many have paid just once or twice.
+ Many have not attended the space in months, if ever.
+\end_layout
+
+\begin_layout Subsubsection
+Termination of membership
+\end_layout
+
+\begin_layout Standard
+We currently have no formal process defined for terminating a member's membershi
+p (e.g.
+ in the event of repeated dangerous behaviour or abuse; or long term absense
+ without "leave").
+\end_layout
+
+\begin_layout Subsubsection
+Pay-as-you-go (PAYG) membership
+\end_layout
+
+\begin_layout Standard
+Many individuals don't want to commit to paying monthly to use the space
+ from time to time.
+\end_layout
+
+\begin_layout Subsubsection
+No supporter membership
+\end_layout
+
+\begin_layout Standard
+Some individuals would like to support the space monthly but do not want
+ to divulge their address to our membership (UK law requires that all members
+ have their address on our Register of Members and all members are entitled
+ to view the Register of Members).
+\end_layout
+
+\begin_layout Subsubsection
+Guests don't have a way to "belong" before gaining full membership
+\end_layout
+
+\begin_layout Standard
+At the moment if you don't want to be a member there are many ways to stay
+ informed but they're all pretty disparate; the only one we really push
+ is the newsletter subscription, but that doesn't get a lot of love.
+ It would be nice if interested parties could sign up and immediately get
+ access to the members area/wiki/etc to make them feel more involved.
+\end_layout
+
+\begin_layout Subsection
+Proposed Solution
+\begin_inset CommandInset label
+LatexCommand label
+name "sub:Proposed-Solution"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+I propose we change the Members Area (and thus the registration process)
+ in the following ways:
+\end_layout
+
+\begin_layout Subsubsection
+Initial registration is for "associate" membership
+\end_layout
+
+\begin_layout Standard
+Associate membership means that you are not on our register of members and
+ has the following notable differences to membership:
+\end_layout
+
+\begin_layout Itemize
+entering your address is optional
+\end_layout
+
+\begin_layout Itemize
+no monthly subscription required (PAYG) 
+\end_layout
+
+\begin_layout Itemize
+no voting rights 
+\end_layout
+
+\begin_layout Itemize
+no appearance on Register of Members 
+\end_layout
+
+\begin_layout Subsubsection
+Associate membership only requires one Trustee's approval
+\end_layout
+
+\begin_layout Standard
+Approval at this stage is for security reasons - e.g.
+ preventing spam on the wiki, etc.
+\end_layout
+
+\begin_layout Subsubsection
+Associate members must set up a subscription to request full membership
+\end_layout
+
+\begin_layout Standard
+Via GoCardless or Standing Order preferably, this should ensure that the
+ majority of full members are always up to date.
+\end_layout
+
+\begin_layout Standard
+(NOTE: We'll still need to accept cash payments for people with cashflow
+ issues - the requirement should be something like "they must have had a
+ subscription payment registered in the last month")
+\end_layout
+
+\begin_layout Subsubsection
+Full membership approval still requires a quorum of trustees
+\end_layout
+
+\begin_layout Standard
+Historically speaking, in most cases this is approved within 48 hours; this
+ is unchanged from the existing system.
+\end_layout
+
+\begin_layout Subsubsection*
+Associate members who have monthly subscription are called "supporters"
+\begin_inset CommandInset label
+LatexCommand label
+name "par:Supporter"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Or similar; they get all the privileges of full membership except:
+\end_layout
+
+\begin_layout Itemize
+don't appear on our Register of Members
+\end_layout
+
+\begin_layout Itemize
+no voting rights 
+\end_layout
+
+\begin_layout Itemize
+no need to provide address (though it's highly encouraged) 
+\end_layout
+
+\begin_layout Itemize
+address is only visible to trustees and those directly involved with the
+ spaces' paperwork 
+\end_layout
+
+\begin_layout Itemize
+cannot become trustees
+\end_layout
+
+\begin_layout Subsection
+"Associate membership" sounds terrible.
+\end_layout
+
+\begin_layout Standard
+I agree.
+ Suggestions for better terminology welcome.
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Associate
+\series default
+ Member
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Friend
+\series default
+ of So Make it 
+\end_layout
+
+\begin_layout Enumerate
+So Make It 
+\series bold
+Supporter
+\series default
+ 
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Guest
+\series default
+ 
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Newbie
+\series default
+ 
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Advocate
+\end_layout
+
+\begin_layout Enumerate
+
+\series bold
+Patron
+\end_layout
+
+\begin_layout Subsubsection*
+What's wrong with "associate member"?
+\end_layout
+
+\begin_layout Itemize
+It uses the word associate, which sounds terrible.
+ 
+\end_layout
+
+\begin_layout Itemize
+It uses the word member, which on it's own may have legal connotations because
+ we're a Company Limited by Guarantee (and we have a Register of Members)
+ - we should avoid the word "member" if possible.
+\end_layout
+
+\begin_layout Section
+Space Entry Proposal
+\begin_inset CommandInset label
+LatexCommand label
+name "sec:Keyholder-proposal"
+
+\end_inset
+
+
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+From 
+\begin_inset CommandInset href
+LatexCommand href
+name "http://goo.gl/Ve3jsd"
+target "http://goo.gl/Ve3jsd"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Purpose
+\end_layout
+
+\begin_layout Standard
+The purpose of this document is to specify who should be able to let themselves
+ into the space and when.
+ It does not specify the technical method use to implement the access restrictio
+ns - think of it as a specification the Door Entry System should comply
+ to.
+\end_layout
+
+\begin_layout Standard
+This is how Benjie thinks it should work, and is written formally in the
+ interest of having an open discussion on this subject.
+ If your idea of what should go on is significantly different I strongly
+ encourage you to write your own proposal; feel free to use this one as
+ a template (and to avoid confusion try and use the same definitions; though
+ feel free to add your own or omit some).
+\end_layout
+
+\begin_layout Subsection
+Definitions
+\end_layout
+
+\begin_layout Description
+the
+\begin_inset space ~
+\end_inset
+
+Space The premises controlled by So Make It Ltd., currently Unit K6, Liners'
+ Industrial Estate, Pitt Road, Freemantle, Southampton, SO15 3FQ
+\end_layout
+
+\begin_layout Description
+Member A member of So Make It Ltd., as defined by the list in the Members
+ Area [Note If the Mebership Process Proposal
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+See §
+\begin_inset CommandInset ref
+LatexCommand vref
+reference "sub:Benjie's-proposal"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+ is also ratified then for this proposal only Member includes Supporters
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+See §
+\begin_inset CommandInset ref
+LatexCommand vref
+reference "par:Supporter"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Description
+Trustee A Member who is also a director of So Make It Ltd., currently: Anton,
+ Benjie, Bracken, Chris, and James
+\end_layout
+
+\begin_layout Description
+Guest Someone who is not a Member.
+\end_layout
+
+\begin_layout Description
+Key Something that allows access into the space at any time, for example
+ a physical key, an RFID or NFC card, a door entry code, or a combination
+ of these.
+ 
+\end_layout
+
+\begin_layout Description
+Keyholder A Member who possesses a Key
+\end_layout
+
+\begin_layout Description
+Access
+\begin_inset space ~
+\end_inset
+
+Card Like a Key, but only allows access into the space when it is Open.
+ A Access Card need not be of the same form as a Key.
+\end_layout
+
+\begin_layout Description
+Access
+\begin_inset space ~
+\end_inset
+
+Cardholder A Member who possesses a Access Card
+\end_layout
+
+\begin_layout Description
+Access-less
+\begin_inset space ~
+\end_inset
+
+Member A Member who possesses neither a Key nor a Access Card.
+\end_layout
+
+\begin_layout Description
+Open The space is Open when it is occupied (e.g.
+ when a Keyholder has unlocked the door); however there should be a way
+ of disambiguation someone just popping in to pick something up versus stating
+ for an hour or more
+\end_layout
+
+\begin_layout Description
+Closed Not Open
+\end_layout
+
+\begin_layout Subsection
+Space Access
+\end_layout
+
+\begin_layout Subsubsection
+Guests
+\end_layout
+
+\begin_layout Standard
+Guests should always be escorted around the space - not just for security
+ but also for health and safety.
+ For this reason to enter the space Guests will ring the door-bell and someone
+ will let them in.
+\end_layout
+
+\begin_layout Standard
+The Keyholder who opens the space must be willing to greet Guests since
+ they are vital to the growth of So Make It and should always be made to
+ feel welcome.
+ However if there are more people in the space then others may let the Guest
+ in.
+\end_layout
+
+\begin_layout Subsubsection
+Access-less Member
+\end_layout
+
+\begin_layout Standard
+There should be no Access-less Members; however in the event that a Member
+ loses their Key/Access Card or attends the space after registering but
+ before receiving a Access Card they will be treated as a Guest.
+\end_layout
+
+\begin_layout Subsubsection
+Access Cardholders
+\end_layout
+
+\begin_layout Standard
+When the space is Open Access Cardholders should just be able to utilise
+ their Access Card to open the door and gain entry to the space.
+\end_layout
+
+\begin_layout Standard
+The the space is Closed Access Cardholders will not be able to gain entry
+ to the space
+\end_layout
+
+\begin_layout Subsubsection
+Keyholders
+\end_layout
+
+\begin_layout Standard
+Keyholders can open the space and gain entry at any time.
+ Please see Opening the Space below for further discussion around opening/closin
+g the space.
+\end_layout
+
+\begin_layout Subsection
+Becoming a Access Cardholder
+\end_layout
+
+\begin_layout Standard
+All Members should be Access Cardholders almost immediately after registering.
+ The process should be like this:
+\end_layout
+
+\begin_layout Enumerate
+Register on the website to be a Member
+\end_layout
+
+\begin_layout Enumerate
+Get approved (by a quorum of Trustees)
+\end_layout
+
+\begin_layout Enumerate
+Someone posts you a Welcome Pack including a Access Card (thereby verifying
+ your address)
+\end_layout
+
+\begin_layout Enumerate
+Your Access Card might not be activated until the first time you visit the
+ space (this may require intervention by a Keyholder to say that they've
+ at least seen your face)
+\end_layout
+
+\begin_layout Subsection
+Becoming a Keyholder
+\end_layout
+
+\begin_layout Standard
+All Members can become Keyholders; but first we need to check a few things:
+\end_layout
+
+\begin_layout Enumerate
+They must prove their identity and address to a Trustee
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Identity can be verified via a driving license, passport, or anything else
+ deemed suitable by the Trustee (e.g.
+ if the Trustee knows them personally, works with them, or somehow otherwise
+ knows their identity)
+\end_layout
+
+\begin_layout Itemize
+Address will be verified by possession of their Access Card.
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+They must be known within the So Make It community
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+e.g.
+ they must have visited the space at least 8 times and in at least 3 separate
+ calendar weeks over a 3 month period
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+i.e.
+ they cannot become a Keyholder until at least 3 weeks after they registered
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Enumerate
+They must be in good standing
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+Subscription up to date
+\end_layout
+
+\begin_layout Itemize
+No violence/verbal abuse recorded
+\end_layout
+
+\begin_layout Itemize
+No dangerous incidents recorded (e.g.
+ using a power-tool under the influence of alcohol or illicit substances)
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+They must be approved by a Trustee
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+This may be a technical requirement (e.g it might be that only Trustees can
+ upgrade the Access Card to a Key)
+\end_layout
+
+\begin_layout Itemize
+This is also a fail-safe incase the rules above are insufficient to protect
+ the Space and its Members
+\end_layout
+
+\end_deeper
+\begin_layout Subsection
+Opening the Space
+\end_layout
+
+\begin_layout Standard
+Only Keyholders can Open the space.
+ Simply using their Key may open the Space, or they may be required to perform
+ an additional action.
+ This additional action can serve two purposes:
+\end_layout
+
+\begin_layout Enumerate
+Prevent the space being broadcast as open when really the Keyholder just
+ popped in to get something.
+\end_layout
+
+\begin_layout Enumerate
+Getting an idea of how long the Space is likely to be open until (so Members
+ and Guests don't waste time visiting the space if it's only likely to be
+ open for an hour)
+\end_layout
+
+\begin_layout Standard
+The Keyholder who Opens the space must either Close the space when they
+ leave; or they must pass on their Closing responsibility to another Keyholder.
+ This does mean that a Keyholder may have to kick out Members when they
+ leave, but hopefully we can address this in two ways: 1) by having a sufficient
+ number of Keyholders, and 2) by having a way of recording how long the
+ space is likely to be Open for.
+\end_layout
+
+\begin_layout Subsection
+Closing the Space
+\end_layout
+
+\begin_layout Standard
+The last Keyholder to leave the space must:
+\end_layout
+
+\begin_layout Enumerate
+Check that no-one remains in the space
+\end_layout
+
+\begin_layout Enumerate
+Check that the space is safe (no soldering irons/tools left switched on,
+ no taps running, etc)
+\end_layout
+
+\begin_layout Enumerate
+Check that the space is secure (all windows and doors closed and locked)
+\end_layout
+
+\begin_layout Enumerate
+Trigger the space closing script (e.g.
+ that announces that the space is closed on IRC/Twitter/etc) - this may
+ be manual or automatic
+\end_layout
+
+\begin_layout Enumerate
+Turn off the lights
+\end_layout
+
+\begin_layout Enumerate
+Lock the door (this may be manual or automatic)
+\end_layout
+
+\begin_layout Subsection
+Appendix: An Simple Example Implementation
+\end_layout
+
+\begin_layout Standard
+This example is purely to show how the system could work with the proposal
+ above, it is not to be treated as part of the proposal itself and it's
+ likely that the technical solution we use to address the proposal will
+ not be this example implementation.
+\end_layout
+
+\begin_layout Subsubsection
+Keys/Access Cards
+\end_layout
+
+\begin_layout Standard
+RFID lock on the door.
+ Access Cards and Keys are both RFID cards.
+ When an RFID card is scanned the system looks up the user and if they are
+ a Keyholder then it lets them in; otherwise if they are a Access Cardholder
+ it only lets them in if the space is Open.
+\end_layout
+
+\begin_layout Subsubsection
+Opening
+\end_layout
+
+\begin_layout Standard
+When a Keyholder enters the space they flick the Space Opening Switch (like
+ we had at rideride) which marks the space as Open and announces the opening
+ to Twitter/IRC/etc.
+\end_layout
+
+\begin_layout Subsubsection
+Closing
+\end_layout
+
+\begin_layout Standard
+When the last Keyholder leaves the space they reset the Space Opening Switch,
+ announcing that the space is closed.
+\end_layout
+
+\begin_layout Standard
+There may be a Watchdog timer that automatically Closes the space if the
+ door has not been opened in at least 2 hours unless someone inside the
+ space presses a button.
+\end_layout
+
+\begin_layout Subsubsection
+Problems with this implementation
+\end_layout
+
+\begin_layout Itemize
+No indication of how long the space will be open for
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+This could be addressed by using a potentiometer or similar combined with
+ an LCD display instead of a switch as the Space Opening Switch; this could
+ also address the "having to kick people out" issue too.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Fails in a power cut
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+A key override in the RFID lock is desirable, but the people who have access
+ to this key should be severely limited (e.g.
+ just the Trustees) since it doesn't involve any authentication.
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+Is software based and potentially hackable
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+May be best to run this off of a non-networked Pi that is locked securely;
+ though doing so makes it harder to approve new Access Cardholder/Keyholders
+ quickly
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+The RFID lock may not be sufficiently strong for an external door.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+This could be solved by using a heavy duty mechanical combination lock and
+ giving the code to all Keyholders.
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+The combo lock needs to be able to be left in an unlocked state otherwise
+ Access Cardholder would not be able to gain access to the space when it
+ is Open.
+\end_layout
+
+\end_deeper
+\end_deeper
+\begin_layout Section
+Grievance procudure proposal
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+From 
+\begin_inset CommandInset href
+LatexCommand href
+name "http://goo.gl/t4Zx9I"
+target "http://goo.gl/t4Zx9I"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+(Chris)
+\end_layout
+
+\begin_layout Subsection
+Intention 
+\end_layout
+
+\begin_layout Standard
+The Trustees of So Make It have the authority to ban anyone from entering
+ the space.
+ This must only be done in circumstances where this authority is best for
+ the So Make It and its members as a whole.
+ 
+\end_layout
+
+\begin_layout Standard
+This policy will only be applied to members who demonstrate unwillingness
+ to address behaviour which has caused offence, harm or distress to another
+ member, members, visitors or affiliates of So Make It; or has threatened
+ the safety of the space.
+ This may be behaviour directly targeting or witnessed by any individual.
+ Our rules clearly state that in the event of certain behaviour being reported
+ that a ban is possible..
+ Throughout the process, all efforts will be made to keep clear and constructive
+ communication between the trustees, the offending party, and any other
+ affected parties.
+ 
+\end_layout
+
+\begin_layout Standard
+In very serious cases, trustees may invoke temporary access bans until the
+ issue is resolved.
+ Should a trustee become the focus of a complaint, they will not be included
+ in their normal capacity during the grievance process.
+ 
+\end_layout
+
+\begin_layout Subsection
+Introduction 
+\end_layout
+
+\begin_layout Enumerate
+This policy applies to members, guests and attendees of events that use
+ So Make It or its online meeting places and social media platforms.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Any person may be banned from the space if they violate existing policies
+ or if they have the potential to harm other users of the space.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Before the formal banning procedure is started, the trustees must make every
+ attempt to resolve the issue informally.
+ 
+\end_layout
+
+\begin_layout Subsection
+Process 
+\end_layout
+
+\begin_layout Enumerate
+Should a trustee become the focus of a complaint, they will not be included
+ in their normal capacity during the grievance process.
+ § Where possible the offending party must be given at least two written
+ warnings before being banned unless the trustees determine there is a continuin
+g threat to the safety of members.
+ At every stage, it must be made clear to the party where they are in this
+ process.
+\end_layout
+
+\begin_layout Enumerate
+At every stage, a quorum of trustees must be in agreement that allowing
+ the user to continue to use the space would not be in the best interest
+ of the organisation.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Should a quorum of trustees be unattainable, then a general meeting will
+ be called at the first opportunity, with the only agenda item to be appointing
+ enough members as temporary trustees to enable an investigation of the
+ complaint.
+ The remit of these members will be limited to the investigation, and they
+ will be required to step down upon completion of the investigation 
+\end_layout
+
+\begin_layout Enumerate
+At every stage, the trustees must make their reasoning available to the
+ offending party.
+ They must also make as much detail as is appropriate available to all members
+ but may hold back information if it is decided it is in the best interests
+ of the space and its membership.
+ 
+\end_layout
+
+\begin_layout Enumerate
+By default, a ban will be for a year.
+ At their discretion, the trustees can issue a reduced or extended ban period.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Bans of more than one year may only be issued in extreme circumstances.
+ The trustees must review these bans yearly.
+ 
+\end_layout
+
+\begin_layout Enumerate
+If the offending party is a member, the ban will trigger the process to
+ remove the member.
+ 
+\end_layout
+
+\begin_layout Enumerate
+When a person is banned, their right to access So Make It and its social
+ media and communication platforms is revoked.
+ Any entry to the space without the prior, express permission of trustees
+ will be considered trespass.
+ 
+\end_layout
+
+\begin_layout Enumerate
+The trustees must seek feedback from the community to ensure this process
+ remains fair and balanced.
+ 
+\end_layout
+
+\begin_layout Section
+Donations/Junk Proposal
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+From 
+\begin_inset CommandInset href
+LatexCommand href
+target "http://goo.gl/IDi0Ot"
+
+\end_inset
+
+, discussed at
+\begin_inset CommandInset href
+LatexCommand href
+target "http://goo.gl/bc8O4m"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+(Bracken)
+\end_layout
+
+\begin_layout Subsection
+Overview
+\end_layout
+
+\begin_layout Standard
+Each week is assigned a colour from a cycle of 4 colours, for example: Blue,
+ Green, Orange and Pink.
+ There are 4 shelves, each coloured with one of the 4 colours.
+ Next to the shelves is a poster which changes based on which colour the
+ week is (see below).
+ Newly donated items are put on the "new donations" shelf (the same as the
+ week's colour).
+\end_layout
+
+\begin_layout Paragraph
+BLUE WEEK
+\end_layout
+
+\begin_layout Standard
+Blue: new donations (evaluate for So Make It) Green: teardown if possible/take
+ for free Orange/Pink: take for a donation
+\end_layout
+
+\begin_layout Paragraph
+GREEN WEEK
+\end_layout
+
+\begin_layout Standard
+Green: new donations (evaluate for So Make It) Orange: teardown if possible/take
+ for free Pink/Blue: take for a donation
+\end_layout
+
+\begin_layout Paragraph
+ORANGE WEEK
+\end_layout
+
+\begin_layout Standard
+Orange: new donations (evaluate for So Make It) Pink: teardown if possible/take
+ for free Blue/Green: take for a donation
+\end_layout
+
+\begin_layout Paragraph
+PINK WEEK
+\end_layout
+
+\begin_layout Standard
+Pink: new donations (evaluate for So Make It) Blue: teardown if possible/take
+ for free Green/Orange: take for a donation
+\end_layout
+
+\begin_layout Subsection
+Details
+\end_layout
+
+\begin_layout Standard
+We go in a 4 week Monday-Sunday cycle - first week any donations go on the
+ Blue shelf, second week they go on the Green shelf, third Orange, fourth
+ Pink, fifth Blue, Green, Orange, etc.
+\end_layout
+
+\begin_layout Standard
+Anything on the next colour's shelf (e.g.
+ things on the Orange shelf when the week is Green) is soon to be junk so
+ can be torn down, hacked or taken away without guilt.
+\end_layout
+
+\begin_layout Standard
+Anything on the other two shelves (e.g.
+ things on the Orange/Pink shelves when the week is Green) is available
+ for a donation.
+\end_layout
+
+\begin_layout Standard
+Each week someone should change the poster to reflect the current week's
+ colour and remove all items on that coloured shelf (e.g.
+ the Green shelf when the week is Green) ready to be disposed of.
+\end_layout
+
+\begin_layout Subsubsection
+Further rules
+\end_layout
+
+\begin_layout Standard
+Many donations should be turned away - particularly:
+\end_layout
+
+\begin_layout Enumerate
+Large/bulky items 
+\end_layout
+
+\begin_layout Enumerate
+Items that require special disposal (batteries, items containing asbestos,
+ ...) 
+\end_layout
+
+\begin_layout Enumerate
+Items that don't look useful 
+\end_layout
+
+\begin_layout Enumerate
+Illegal, illicit or items of unknown origin 
+\end_layout
+
+\begin_layout Enumerate
+Chemicals unless they've been previous approved by a Trustee - chemicals
+ should never be placed on the donations shelves - they must be handled
+ separately for H&S/COSHH reasons
+\end_layout
+
+\begin_layout Section
+Changing our general meetings
+\end_layout
+
+\begin_layout Standard
+(Chris) 
+\end_layout
+
+\begin_layout Standard
+The question was raised 
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+At 
+\begin_inset CommandInset href
+LatexCommand href
+name "http://goo.gl/feHQzu"
+target "http://goo.gl/feHQzu"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+ as to whether we should have more general meetings.
+ The following options are suggested:
+\end_layout
+
+\begin_layout Enumerate
+Our AGM is fine - we can decide things on trello/google groups 
+\end_layout
+
+\begin_layout Enumerate
+Once every 6 months is more sensible - any volunteers to chair and organise
+ it? (doesn't have to be a trustee!) 
+\end_layout
+
+\begin_layout Enumerate
+Once every 3 months is doable and I Chris volunteer to help chair and organise
+ it.
+ 
+\end_layout
+
+\begin_layout Section
+Personal storage proposal
+\end_layout
+
+\begin_layout Subsection
+Primary Proposal 
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+From 
+\begin_inset CommandInset href
+LatexCommand href
+name "http://goo.gl/baMqy1"
+target "http://goo.gl/baMqy1"
+
+\end_inset
+
+, includes discussion from 
+\begin_inset CommandInset href
+LatexCommand href
+name "http://goo.gl/nKufpP"
+target "http://goo.gl/nKufpP"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+(Benjie)
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Boxed
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "100col%"
+special "none"
+height "1in"
+height_special "totalheight"
+status open
+
+\begin_layout Plain Layout
+NOTE: in this proposal I use the term "users" to refer to "So Make It Members"
+ and the newly proposed "Friends of So Make It"
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+See §
+\begin_inset CommandInset ref
+LatexCommand vref
+reference "sub:Proposed-Solution"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+, or, more specifically, "Supporters" since they need to pay a monthly subscript
+ion.
+ Friends may have to jump a few more hoops to store their stuff here (e.g.
+ have turned up a few time and thus become known to the community) but are
+ treated basically equivalently to Members.
+\end_layout
+
+\begin_layout Plain Layout
+The space can provide storage for it's users, but storage is at a premium.
+ Users' items should be stored only inside authorised storage boxes.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsubsection
+How much can I store?
+\end_layout
+
+\begin_layout Standard
+The amount a user can store is based on their subscription level (and available
+ space).
+ The first £15/mo covers basic usage of the space (no storage), above this
+ the allowance is allocated as follows:
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+each:
+\end_layout
+
+\begin_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
++£5/mo adds a small box to your allowance, or 
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
++£10/mo adds a medium box to your allowance, or 
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
++£15/mo adds a large box to your allowance
+\end_layout
+
+\end_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+For
+\begin_inset space ~
+\end_inset
+
+example:
+\end_layout
+
+\begin_deeper
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+£15/mo - no storage allowance 
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+£20/mo - a small box 
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+£25/mo - a medium box 
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+£30/mo - a large box 
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+£35/mo - a large box and a small box 
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+£45/mo - two large boxes 
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+Please keep in mind you're not being charged for the boxes/storage - instead
+ your subscription level (which goes towards covering all the costs inherent
+ in the space) allows you to use an amount of storage (if it's available).
+\end_layout
+
+\begin_layout Subsubsection
+What are the authorised storage boxes?
+\end_layout
+
+\begin_layout Standard
+These will change from time to time and are always to be provided by So
+ Make It (users should not provide their own storage boxes).
+ Currently proposed are:
+\end_layout
+
+\begin_layout Description
+Small: cardboard box from Ikea 
+\end_layout
+
+\begin_layout Description
+Medium: medium translucent plastic box from The Range 
+\end_layout
+
+\begin_layout Description
+Large: large translucent plastic box from The Range 
+\end_layout
+
+\begin_layout Subsubsection
+What can't I store?
+\end_layout
+
+\begin_layout Standard
+No storage of dangerous chemicals (these should be kept in dedicated chemical
+ storage), explosives, illegal or illicit materials, offensive materials
+ or other materials that the trustees deem to be inappropriate.
+\end_layout
+
+\begin_layout Subsubsection
+Termination of storage
+\end_layout
+
+\begin_layout Standard
+If your subscription is not up to date, or no longer covers your storage,
+ then someone will attempt to notify you that you have 4 weeks to fix your
+ subscription or remove the stored items from the space.
+ If this period elapses without resolution then the items stored become
+ the property of So Make It Ltd.
+ It is your responsibility to ensure that the trustees of So Make It always
+ have a valid method of reaching you.
+\end_layout
+
+\begin_layout Subsubsection
+Other rules
+\end_layout
+
+\begin_layout Enumerate
+Boxes are assigned by Space Keepers (or Trustees until we have a Space Keeper
+ role).
+ 
+\end_layout
+
+\begin_layout Enumerate
+Space is allocated on a first-come first-served basis as we only have limited
+ space available.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Unused or near-empty boxes may be downgraded or removed without warning
+ in order to free up space.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Boxes remain the property of So Make It Ltd and should be treated with respect.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Full name and membership/friend identification number must be written on
+ the box using the labels provided.
+ 
+\end_layout
+
+\begin_layout Enumerate
+No storage for guests.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Users are responsible for their own storage.
+\end_layout
+
+\begin_layout Subsection
+Alternative pricing amendment
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+£5 no storage
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+£10 A small box
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+£15 A medium box
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+£20 A large box
+\end_layout
+
+\begin_layout Labeling
+\labelwidthstring 00.00.0000
+£30+ 2 large boxes
+\end_layout
+
+\begin_layout Section
+NFC locks only proposal
+\end_layout
+
+\begin_layout Standard
+(Anton)
+\end_layout
+
+\begin_layout Enumerate
+Confirm that we are happy to stop using a physical deadlock and only use
+ NFC access as described above.
+ This is a weaker latch than the deadlock, but I believe strong enough for
+ our current use 
+\end_layout
+
+\begin_layout Enumerate
+Alternatively we could spend ~£50-£100 on a stronger electric strike/latch
+ to improve the security.
+ 
+\end_layout
+
+\begin_layout Section
+Brief NFC tag survey 
+\end_layout
+
+\begin_layout Standard
+(Anton) 
+\end_layout
+
+\begin_layout Enumerate
+Do you have a nfc tag? 
+\end_layout
+
+\begin_layout Enumerate
+Would you like us to bulk order for you a ..
+ (Anton to show examples) 
+\end_layout
+
+\begin_deeper
+\begin_layout Enumerate
+..card? 
+\end_layout
+
+\begin_layout Enumerate
+..sticker? 
+\end_layout
+
+\begin_layout Enumerate
+..keyring dongle? 
+\end_layout
+
+\end_deeper
+\begin_layout Enumerate
+Would you pay extra (£1.50-£2.00 vs 50p ea) for a So Make It Logo on the above?
+\end_layout
+
+\begin_layout Section
+Dalek project funding proposal
+\end_layout
+
+\begin_layout Standard
+(Chris) 
+\end_layout
+
+\begin_layout Standard
+As discussed 
+\begin_inset Foot
+status open
+
+\begin_layout Plain Layout
+\begin_inset CommandInset href
+LatexCommand href
+target "http://goo.gl/UaB6WY"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+ I would like to put £100 of SMI funds towards getting the Dalek build project
+ off to a good start.
+\end_layout
+
+\begin_layout Standard
+My view is this will benefit the space in the long run plus hopefully may
+ raise far more than that £100 for the space if we use the Dalek at events.
+\end_layout
+
+\end_body
+\end_document
