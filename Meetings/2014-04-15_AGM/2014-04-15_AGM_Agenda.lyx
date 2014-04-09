@@ -72,7 +72,7 @@
 \begin_body
 
 \begin_layout Title
-Draft Agenda v2
+Agenda
 \begin_inset Newline newline
 \end_inset
 
@@ -139,6 +139,35 @@ Jem Gillam - Proposed by Anton Piatek, seconded by Chris Smith
 
 \begin_layout Section
 Approve annual accounts
+\end_layout
+
+\begin_layout Subsection
+Financial charts
+\end_layout
+
+\begin_layout Standard
+(Anton)
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename image.png
+	width 100col%
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Graphics
+	filename image (1).png
+	width 100col%
+	clip
+
+\end_inset
+
+
 \end_layout
 
 \begin_layout Subsection
@@ -339,12 +368,12 @@ Our current budget (based on February’s figures) is as follows:
 \end_layout
 
 \begin_layout Standard
-\begin_inset Box Frameless
+\begin_inset Box Shadowbox
 position "t"
 hor_pos "c"
 has_inner_box 1
 inner_pos "t"
-use_parbox 0
+use_parbox 1
 use_makebox 0
 width "100col%"
 special "none"
@@ -352,58 +381,48 @@ height "1in"
 height_special "totalheight"
 status open
 
-\begin_layout Plain Layout
-\align left
+\begin_layout Paragraph*
 February 2014 Budget
 \end_layout
 
 \begin_layout Plain Layout
 \align right
 Rent £542.00
-\end_layout
+\begin_inset Newline newline
+\end_inset
 
-\begin_layout Plain Layout
-\align right
 Insurance £27.50
-\end_layout
+\begin_inset Newline newline
+\end_inset
 
-\begin_layout Plain Layout
-\align right
 Electricity £50.00
-\end_layout
+\begin_inset Newline newline
+\end_inset
 
-\begin_layout Plain Layout
-\align right
 Contingency £50.00
-\end_layout
+\begin_inset Newline newline
+\end_inset
 
-\begin_layout Plain Layout
-\align right
 Internet £21.60
-\end_layout
+\begin_inset Newline newline
+\end_inset
 
-\begin_layout Plain Layout
-\align right
 Misc (tooling, cleaning supplies etc) £100.00
-\end_layout
+\begin_inset Newline newline
+\end_inset
 
-\begin_layout Plain Layout
-\align right
   Gas £0.00
-\end_layout
+\begin_inset Newline newline
+\end_inset
 
-\begin_layout Plain Layout
-\align right
 Bin collection £0.00
-\end_layout
+\begin_inset Newline newline
+\end_inset
 
-\begin_layout Plain Layout
-\align right
 Business Rates £0.00
-\end_layout
+\begin_inset Newline newline
+\end_inset
 
-\begin_layout Plain Layout
-\align right
 
 \series bold
 Total Outgoings £791.10
@@ -412,20 +431,17 @@ Total Outgoings £791.10
 \begin_layout Plain Layout
 \align right
   Membership Subscriptions £654.46
-\end_layout
+\begin_inset Newline newline
+\end_inset
 
-\begin_layout Plain Layout
-\align right
   Donations £26.50
-\end_layout
+\begin_inset Newline newline
+\end_inset
 
-\begin_layout Plain Layout
-\align right
   Other £0.00
-\end_layout
+\begin_inset Newline newline
+\end_inset
 
-\begin_layout Plain Layout
-\align right
 
 \series bold
 Total Income £680.96
@@ -435,7 +451,7 @@ Total Income £680.96
 \align right
 
 \series bold
-  Totals -£110.14 
+  Totals -£110.14
 \end_layout
 
 \end_inset
@@ -684,6 +700,10 @@ With some investment in the space I think our existing members will feel
  to pay more.
  We’ll almost definitely attract some new members too and with more money
  coming in it puts us in a much better position.
+\end_layout
+
+\begin_layout Standard
+
 \end_layout
 
 \begin_layout Section
