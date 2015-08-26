@@ -30,9 +30,9 @@ Risk Assessments
 
 Risk assessments for the following:
 
-3D Printing				- Complete
-Bench Grinder				- To be completed
-Dalek Operation & Event Planning	- Complete
+3D Printing				- Complete with actions to be done
+Bench Grinder				- Complete with actions to be done
+Dalek Operation & Event Planning	- Complete with actions to be done
 Electronics				- To be completed
 Kitchen					- To be completed
 Workshop				- To be completed
