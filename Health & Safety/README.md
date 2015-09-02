@@ -16,13 +16,14 @@ Machine Warning Signs
 Warning signs to be placed next to specific machines including:
 
 Band Saw		- To be completed
-Bench Grinder		- To be completed
+Bench Grinder		- Ready to print
 Hand Tools		- To be completed
 Metalworking Lathe	- To be completed
 Mitre Saw		- To be completed
 Pillar Drill		- To be completed
 Portable Power Tools	- To be completed
 Wood Lathe		- To be completed
+3D printers		- Ready to print
 
 
 Risk Assessments
@@ -51,7 +52,7 @@ Please add additional risk assessments here and update any that require updating
 Workshop Entrance Signs
 -----
 
-Signs to be displayed on the workshop door.
+Signs that should be displayed on the workshop door.
 
 
 COSHH
